@@ -5,4 +5,3 @@
 #### Our Repositories:
 - [DesktopClient](https://github.com/VALTracker/DesktopClient) - VALTracker's Desktop Client. 
 - [Website](https://github.com/VALTracker/Website) - VALTracker's Website.
-- [VALTracker-Rework](https://github.com/VALTracker/VALTracker-Rework) - The Rework of VALTracker's Desktop Client we are currently working on.
